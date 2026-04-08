@@ -9,7 +9,7 @@ const avis = [
     avatar: 'FD',
     bg: '#FFF7ED',
     color: '#F97316',
-    image: '/src/assets/testimonials/fatou.jpg',
+    image: '/assets/testimonials/fatou.jpg',
   },
   {
     nom: 'Moussa Ndiaye',
@@ -19,17 +19,17 @@ const avis = [
     avatar: 'MN',
     bg: '#EFF6FF',
     color: '#2563eb',
-    image: '/src/assets/testimonials/moussa.jpg',
+    image: '/assets/testimonials/moussa.jpg',
   },
   {
-    nom: 'Coumba Sow',
+    nom: 'Cheikh Sow',
     ville: 'Dakar',
     note: 5,
     texte: "J'ai commandé un MacBook et un casque Sony. Prix imbattables et emballage parfait. Ma boutique tech préférée !",
     avatar: 'CO',
     bg: '#F0FDF4',
     color: '#16a34a',
-    image: '/src/assets/testimonials/coumba.jpg',
+    image: '/assets/testimonials/coumba.jpg',
   },
 ]
 
