@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 
 const slides = [
   {
-    bg: '/src/assets/slide1.jpg',
+    bg: '/assets/slide1.jpg',
     badge: 'Nouveautés chaque semaine',
     badgeIcon: 'fa-solid fa-bolt',
     title1: 'La tech à ton',
@@ -14,7 +14,7 @@ const slides = [
     stats: [{ num: '2k+', lbl: 'Produits' }, { num: '98%', lbl: 'Satisfaits' }, { num: '24h', lbl: 'Livraison' }],
   },
   {
-    bg: '/src/assets/slide2.jpg',
+    bg: '/assets/slide2.jpg',
     badge: 'Promo de la semaine',
     badgeIcon: 'fa-solid fa-tag',
     title1: 'Laptops ultra',
@@ -26,7 +26,7 @@ const slides = [
     stats: [{ num: '-30%', lbl: 'Réduction' }, { num: '50+', lbl: 'Modèles' }, { num: '2ans', lbl: 'Garantie' }],
   },
   {
-    bg: '/src/assets/slide3.jpg',
+    bg: '/assets/slide3.jpg',
     badge: 'Audio & Gaming',
     badgeIcon: 'fa-solid fa-headphones',
     title1: 'Son immersif,',
